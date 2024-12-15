@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+    color: #660066;
+}
